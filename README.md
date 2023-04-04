@@ -39,6 +39,6 @@ Steps included in this project:
     
 CHEERS!
 
-<img src="http://media-cdn.tripadvisor.com/media/photo-s/10/28/86/6f/wine-cheers.jpg">
+<img src="https://hips.hearstapps.com/hmg-prod/images/friends-toasting-with-wine-outdoors-royalty-free-image-1573240939.jpg?crop=1.00xw:0.753xh;0,0.156xh&resize=1200:*">
 
 Feel free to drop a star if you like it.
